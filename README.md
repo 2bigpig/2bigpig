@@ -11,13 +11,13 @@
 
 ---
 
-### `leon@github:~$ whoami`
+### $ whoami`
 
 你好，我是一名热衷于 AI 应用与 Agent 工程的开发者。
 
 喜欢探索新技术，也享受把一个想法从概念、原型，一步步变成真正可用的产品。
 
-### `leon@github:~$ ls ./exploring`
+### $ ls ./exploring`
 
 ```text
 agent-engineering/   ReAct · Tool Calling · Context Engineering
@@ -27,7 +27,7 @@ robotics/            C++ · ROS 2 · 机器人软件
 open-source/         源码阅读 · Issue / PR · 开源贡献
 ```
 
-### `leon@github:~$ cat stack.txt`
+### $ cat stack.txt`
 
 ```text
 Languages      Python · Java · SQL
