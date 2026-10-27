@@ -1,3 +1,7 @@
+<a href="https://2bigpig.github.io/gargantua/">
+  <img src="assets/gargantua.gif" alt="Gargantua 黑洞动图，点击打开实时 4K 动画" width="100%">
+</a>
+
 
 <div align="center">
 
